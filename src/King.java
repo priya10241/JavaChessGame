@@ -1,3 +1,4 @@
+//   king class added
 public class King extends Piece{
     King(PieceColor color,Position position){
         super(color,position);
